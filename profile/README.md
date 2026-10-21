@@ -2,7 +2,7 @@
 
 This is the GitHub organisation of Joris Ide.
 
-Please visit [our website](https://www.joriside.com/)) for more information.
+Please visit [our website](https://www.joriside.com/) for more information.
 
 The repositories in this organisation are mostly closed.
 
